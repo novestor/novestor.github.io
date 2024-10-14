@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://novestor.github.io/sitemap.html.gz
+Sitemap: https://novestor.github.io/app/sitemap.html.gz
+Sitemap: https://novestor.github.io/assets/sitemap.html.gz
+Sitemap: https://novestor.github.io/css/sitemap.html.gz
+Sitemap: https://novestor.github.io/includes/sitemap.html.gz
+Sitemap: https://novestor.github.io/item/sitemap.html.gz
+Sitemap: https://novestor.github.io/src/sitemap.html.gz
